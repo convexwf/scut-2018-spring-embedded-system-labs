@@ -1,0 +1,15 @@
+.\obj\exti.o: ..\common\Config\exti.c
+.\obj\exti.o: ..\common\Config\exti.h
+.\obj\exti.o: ..\common\Config\stdafx.h
+.\obj\exti.o: ..\common\CMSIS\stm32f10x.h
+.\obj\exti.o: D:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\obj\exti.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\exti.o: D:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\exti.o: D:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\exti.o: D:\Keil\ARM\Inc\ST\STM32F10x\system_stm32f10x.h
+.\obj\exti.o: ..\common\CMSIS\stm32f10x_conf.h
+.\obj\exti.o: ..\common\Lib\inc\stm32f10x_gpio.h
+.\obj\exti.o: ..\common\CMSIS\stm32f10x.h
+.\obj\exti.o: ..\common\Lib\inc\stm32f10x_rcc.h
+.\obj\exti.o: ..\common\Lib\inc\misc.h
+.\obj\exti.o: ..\common\Lib\inc\stm32f10x_exti.h
