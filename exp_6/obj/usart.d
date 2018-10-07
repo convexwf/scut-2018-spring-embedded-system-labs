@@ -1,0 +1,15 @@
+.\obj\usart.o: ..\common\Config\usart.c
+.\obj\usart.o: ..\common\Config\usart.h
+.\obj\usart.o: ..\common\Config\stdafx.h
+.\obj\usart.o: ..\common\CMSIS\stm32f10x.h
+.\obj\usart.o: D:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\obj\usart.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\usart.o: D:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\usart.o: D:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\usart.o: D:\Keil\ARM\Inc\ST\STM32F10x\system_stm32f10x.h
+.\obj\usart.o: ..\common\CMSIS\stm32f10x_conf.h
+.\obj\usart.o: ..\common\Lib\inc\stm32f10x_gpio.h
+.\obj\usart.o: ..\common\CMSIS\stm32f10x.h
+.\obj\usart.o: ..\common\Lib\inc\stm32f10x_rcc.h
+.\obj\usart.o: ..\common\Lib\inc\misc.h
+.\obj\usart.o: ..\common\Lib\inc\stm32f10x_usart.h
